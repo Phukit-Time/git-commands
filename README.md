@@ -218,6 +218,8 @@ test/
 
 6. Describe under what conditions a merge may fail.
 
+   - git knows the changes in your working directory or staging 
+   area that could be written over by the files that you are merging in.
 
 
 
